@@ -20,7 +20,7 @@ Windows & macOS | 20+ years experience
 
   👉 Available on itch.io: https://jeanmilost.itch.io
 
-  👉 Or watch a video on [Youtube](https://www.youtube.com/watch?v=8vT_uBEiLNo&t=4s)
+  👉 Watch a presentation video on [Youtube](https://www.youtube.com/watch?v=8vT_uBEiLNo&t=4s)
 
 - Technical demos and prototypes
 
