@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Jean Milost
 
-<!--
-**Jeanmilost/Jeanmilost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Developer (C/C++, C#)  
+Windows & macOS | 20+ years experience  
 
-Here are some ideas to get you started:
+## 🚀 About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Desktop application development (C/C++)
+- Cross-language experience: C#, Delphi, Objective-C
+- High-performance UI & multithreading
+- Complex software architecture and systems design
+
+## 🎮 Personal Projects
+
+- Complete Unity game (private repository)  
+  👉 Available on itch.io: https://jeanmilost.itch.io  
+
+- Technical demos and prototypes  
+  👉 Unity: https://github.com/jeanmilost-unity  
+  👉 Godot: https://github.com/jeanmilost-godot  
+
+## 💻 Main GitHub
+
+👉 https://github.com/Jeanmilost  
+
+## 🧠 Focus areas
+
+- Performance optimization  
+- UI frameworks and components  
+- Systems programming  
+
+## 📫 Contact
+
+Feel free to reach out for opportunities or collaborations
