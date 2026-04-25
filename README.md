@@ -17,10 +17,15 @@ Windows & macOS | 20+ years experience
 ## 🎮 Personal Projects
 
 - Complete Unity game (private repository)
+
   👉 Available on itch.io: https://jeanmilost.itch.io
 
+  👉 Or watch a video on [Youtube](https://www.youtube.com/watch?v=8vT_uBEiLNo&t=4s)
+
 - Technical demos and prototypes
+
   👉 Unity: https://github.com/jeanmilost-unity
+
   👉 Godot: https://github.com/jeanmilost-godot
 
 ## 🧠 Focus areas
