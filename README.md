@@ -22,12 +22,13 @@ Windows & macOS | 20+ years experience
   - 👉 [DwarfStar engine](https://github.com/Jeanmilost/DwarfStar) - a tiny 3D engine written in C++
 
 - 🎮 Complete Unity game (private repository)
-  - 👉 Available on [itch.io](https://jeanmilost.itch.io)
+  - 👉 Available on [itch.io](https://jeanmilost.itch.io/urban-free-kick)
   - 👉 Watch a presentation video on [Youtube](https://www.youtube.com/watch?v=8vT_uBEiLNo&t=4s)
 
 - ⚗️ Technical demos and prototypes
   - 👉 [Unity](https://github.com/jeanmilost-unity)
   - 👉 [Godot](https://github.com/jeanmilost-godot)
+  - 👉 [itch.io](https://jeanmilost.itch.io)
 
 ## 🔧Technologies & Tools
 
