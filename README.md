@@ -14,7 +14,7 @@ Windows & macOS | 20+ years experience
 - UI frameworks and components
 - Systems programming
 
-## 📠 Professional projects
+## 💽 Professional projects
 - [Visual Mercutio](https://github.com/thesimplepath/Visual-Mercutio) a business application software written and distributed by ProcessSoft, on which I worked, and now open-source since 2019
 
 ## 💾 Personal Projects
