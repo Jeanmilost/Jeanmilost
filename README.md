@@ -15,7 +15,7 @@ Windows & macOS | 20+ years experience
 - Systems programming
 
 ## 💽 Professional projects
-- [SVGMagic](https://github.com/Jeanmilost/SVGMagic) is a professional SVG components library for Embarcadero RAD Studio, which supports the real-time rendering and the animations. This library was used in the core of the in-house interface engine used by the Ursa Minor company, where I worked, before being sell as a standalone library, and finally become open-source in 2024
+- [SVGMagic](https://github.com/Jeanmilost/SVGMagic) is a professional SVG components library for Embarcadero RAD Studio, which supports the real-time rendering and the animations. This library was used in the core of the in-house interface engine used by the Ursa Minor company, where I worked, before being sell as a standalone library, and finally become open-source in 2025
 - [Visual Mercutio](https://github.com/thesimplepath/Visual-Mercutio) is a business application software written and distributed by ProcessSoft, on which I worked, and now open-source since 2019
 
 ## 💾 Personal Projects
