@@ -1,38 +1,43 @@
 # Jean-Milost Reymond
 
-Senior Software Developer (C/C++, C#)
-Windows & macOS | 20+ years experience
+Senior Software Developer (C/C++, C#) — Windows & macOS
 
 ## ☎️ About me
-- Desktop application development (C/C++)
-- Cross-language experience: C#, Delphi, Objective-C
-- High-performance UI & multithreading
-- Complex software architecture and systems design
+Experienced software developer specialized in desktop applications using C/C++.
+
+Strong background in building high-performance user interfaces, multithreaded systems, and complex software architectures. Comfortable working across multiple languages and technologies, with a focus on performance, reliability, and maintainability.
+
+Also experienced with C# and .NET for application and tool development.
 
 ## 💡 Focus areas
 - Performance optimization
-- UI frameworks and components
-- Systems programming
+- UI frameworks and reusable components
+- Systems programming and architecture
 
 ## 💽 Professional projects
-- [SVGMagic](https://github.com/Jeanmilost/SVGMagic) is a professional SVG components library for Embarcadero RAD Studio, which supports the real-time rendering and the animations. This library was used in the core of the in-house interface engine used by the Ursa Minor company, where I worked, before being sell as a standalone library, and finally become open-source in 2025
-- [Visual Mercutio](https://github.com/thesimplepath/Visual-Mercutio) is a business application software written and distributed by ProcessSoft, on which I worked, and now open-source since 2019
+- [Visual Mercutio](https://github.com/thesimplepath/Visual-Mercutio) ⭐\
+A business application developed by ProcessSoft, on which I worked extensively (maintenance, evolution, debugging, modernization).\
+The project was later open-sourced in 2019 after the company closed.
+- [SVGMagic](https://github.com/Jeanmilost/SVGMagic)\
+A professional SVG component library for Embarcadero RAD Studio, supporting real-time rendering and animation.\
+Originally developed as the core of an in-house UI engine at [Ursa Minor](https://www.copytrans.net), later released as a standalone product and open-sourced in 2025.
 
 ## 💾 Personal Projects
 
-- 🎥 Rasterization and custom 3D engines
-  - 👉 Work around [3D Rasterization](https://github.com/Jeanmilost/3D-Rasterization)
-  - 👉 [CompactStar engine](https://github.com/Jeanmilost/CompactStar) - a tiny 3D engine written in C
-  - 👉 [DwarfStar engine](https://github.com/Jeanmilost/DwarfStar) - a tiny 3D engine written in C++
+- 🎥 3D Rendering & Engines
+  - Work on [3D Rasterization](https://github.com/Jeanmilost/3D-Rasterization) techniques
+  - [CompactStar engine](https://github.com/Jeanmilost/CompactStar) - a lightweight 3D engine written in C
+  - [DwarfStar engine](https://github.com/Jeanmilost/DwarfStar) - a lightweight 3D engine written in C++
 
-- 🎮 Complete Unity game (private repository)
-  - 👉 Available on [itch.io](https://jeanmilost.itch.io/urban-free-kick)
-  - 👉 Watch a presentation video on [Youtube](https://www.youtube.com/watch?v=8vT_uBEiLNo&t=4s)
+- 🎮 Game Development
+  - Complete Unity game *(private repository)*
+  - Available on [itch.io](https://jeanmilost.itch.io/urban-free-kick)
+  - Watch a presentation video on [Youtube](https://www.youtube.com/watch?v=8vT_uBEiLNo&t=4s)
 
-- ⚗️ Technical demos and prototypes
-  - 👉 [Unity](https://github.com/jeanmilost-unity)
-  - 👉 [Godot](https://github.com/jeanmilost-godot)
-  - 👉 [itch.io](https://jeanmilost.itch.io)
+- ⚗️ Technical Experiments
+  - Prototypes using [Unity](https://github.com/jeanmilost-unity) and [Godot](https://github.com/jeanmilost-godot)
+  - Various technical demos and experiments
+  - Page available on [itch.io](https://jeanmilost.itch.io)
 
 ## 🔧Technologies & Tools
 
@@ -53,7 +58,6 @@ Windows & macOS | 20+ years experience
 
 ### Other libraries
 ![Boost](https://img.shields.io/badge/Library-Boost-informational?style=flat&logo=boost&logoColor=white&color=709dc1)
-![crypto++](https://img.shields.io/badge/Library-crypto++-informational?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KICA8cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTUwLDUgTDkwLDIwIEw5MCw1NSBDOTAsNzUgNzAsOTIgNTAsOTggQzMwLDkyIDEwLDc1IDEwLDU1IEwxMCwyMCBaIi8+CiAgPHJlY3QgZmlsbD0iIzU1NSIgeD0iMzMiIHk9IjUyIiB3aWR0aD0iMzQiIGhlaWdodD0iMjYiIHJ4PSI0Ii8+CiAgPHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNTU1IiBzdHJva2Utd2lkdGg9IjciIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIKICAgIGQ9Ik0zNyw1MiBMMzcsMzggUTM3LDI4IDUwLDI4IFE2MywyOCA2MywzOCBMNjMsNTIiLz4KICA8Y2lyY2xlIGZpbGw9IndoaXRlIiBjeD0iNTAiIGN5PSI2MyIgcj0iNSIvPgogIDxyZWN0IGZpbGw9IndoaXRlIiB4PSI0NyIgeT0iNjMiIHdpZHRoPSI2IiBoZWlnaHQ9IjgiIHJ4PSIxIi8+Cjwvc3ZnPgo=&logoColor=white&color=3a7bd5)
 ![SQLite](https://img.shields.io/badge/Library-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=07405e)
 ![TinyXML](https://img.shields.io/badge/Library-TinyXML-informational?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KICA8cGF0aCBmaWxsPSJ3aGl0ZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxIgogICAgZD0iTTM1LDIwIEwxMCw1MCBMMzUsODAgTDQyLDczIEwyMyw1MCBMNDIsMjcgWiIvPgogIDxwYXRoIGZpbGw9IndoaXRlIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjEiCiAgICBkPSJNNjUsMjAgTDkwLDUwIEw2NSw4MCBMNTgsNzMgTDc3LDUwIEw1OCwyNyBaIi8+CiAgPGxpbmUgeDE9IjU3IiB5MT0iMjIiIHgyPSI0MyIgeTI9Ijc4IiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjciIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8L3N2Zz4K&logoColor=white&color=e8760a)
 ![zLib](https://img.shields.io/badge/Library-zlib-informational?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KICA8cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iCiAgICBNMTUsMTUgTDg1LDE1IEw4NSwyOAogICAgTDM1LDcyIEw4NSw3MiBMODUsODUKICAgIEwxNSw4NSBMMTUsNzIKICAgIEw2NSwyOCBMMTUsMjggWgogICIvPgogIDxsaW5lIHgxPSIzMCIgeTE9IjYyIiB4Mj0iNDIiIHkyPSI1MCIgc3Ryb2tlPSIjNTU1IiBzdHJva2Utd2lkdGg9IjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgogIDxsaW5lIHgxPSI0NSIgeTE9IjU1IiB4Mj0iNTciIHkyPSI0MyIgc3Ryb2tlPSIjNTU1IiBzdHJva2Utd2lkdGg9IjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8L3N2Zz4K&logoColor=white&color=5c5c5c)
