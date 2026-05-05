@@ -73,4 +73,4 @@ Originally developed as the core of an in-house UI engine at [Ursa Minor](https:
 
 ## 📫 Contact
 
-Feel free to reach out for opportunities or collaborations
+Feel free to reach out for opportunities or collaborations.
