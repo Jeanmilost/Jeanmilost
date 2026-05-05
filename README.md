@@ -65,7 +65,7 @@ Originally developed as the core of an in-house UI engine at [Ursa Minor](https:
 ### UI engines
 ![VCL](https://img.shields.io/badge/UI-VCL-informational?style=flat&logo=delphi&logoColor=white&color=f14e55)
 ![Sciter](https://img.shields.io/badge/UI-Sciter-informational?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KICA8ZyB0cmFuc2Zvcm09InNjYWxlKDEsLTEpIHRyYW5zbGF0ZSgwLC0xMDApIj4KICAgIDxwYXRoIGZpbGw9IndoaXRlIiBkPSJNIDIsNTAgQSA0OCw0OCAwIDAsMSA5OCw1MCBDIDg2LDY4IDYyLDY4IDUwLDUwIEMgMzgsMzIgMTQsMzIgMiw1MCBaIi8+CiAgICA8Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyLjUiLz4KICA8L2c+Cjwvc3ZnPg==&logoColor=white&color=c25a1)
-![Qt/QML](https://img.shields.io/badge/UI-Qt-informational?style=flat&logo=qt&logoColor=white&color=41cd52)
+![Qt/QML](https://img.shields.io/badge/UI-Qt%2fQML-informational?style=flat&logo=qt&logoColor=white&color=41cd52)
 
 ### Game engines
 ![Unity](https://img.shields.io/badge/Engine-Unity-informational?style=flat&logo=unity&logoColor=white&color=848484)
