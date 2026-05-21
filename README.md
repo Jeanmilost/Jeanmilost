@@ -24,20 +24,23 @@ Originally developed as the core of an in-house UI engine at [Ursa Minor](https:
 
 ## 💾 Personal Projects
 
+- 🎛️ Interfaces
+  - Technical UI experiments and demos using [Qt and QML](https://github.com/Jeanmilost/Qt)
+
 - 🎥 3D Rendering & Engines
-  - Work on [3D Rasterization](https://github.com/Jeanmilost/3D-Rasterization) techniques
+  - Experiments with [3D Rasterization](https://github.com/Jeanmilost/3D-Rasterization) techniques
   - [CompactStar engine](https://github.com/Jeanmilost/CompactStar) - a lightweight 3D engine written in C
   - [DwarfStar engine](https://github.com/Jeanmilost/DwarfStar) - a lightweight 3D engine written in C++
 
 - 🎮 Game Development
   - Complete Unity game *(private repository)*
   - Available on [itch.io](https://jeanmilost.itch.io/urban-free-kick)
-  - Watch a presentation video on [Youtube](https://www.youtube.com/watch?v=8vT_uBEiLNo&t=4s)
+  - Presentation video available on [Youtube](https://www.youtube.com/watch?v=8vT_uBEiLNo&t=4s)
 
 - ⚗️ Technical Experiments
   - Prototypes using [Unity](https://github.com/jeanmilost-unity) and [Godot](https://github.com/jeanmilost-godot)
-  - Various technical demos and experiments
-  - Page available on [itch.io](https://jeanmilost.itch.io)
+  - Various graphics and engine-related experiments
+  - Additional projects available on [itch.io](https://jeanmilost.itch.io)
 
 ## 🔧Technologies & Tools
 
