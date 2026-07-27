@@ -15,7 +15,7 @@ Also experienced with C# and .NET for application and tool development.
 - Systems programming and architecture
 
 ## 💽 Professional projects
-- [SVGMagic](https://github.com/Jeanmilost/SVGMagic)⭐\
+- [SVGMagic](https://github.com/Jeanmilost/SVGMagic) ⭐\
 A professional SVG component library for Embarcadero RAD Studio, supporting real-time rendering and animation.\
 Originally developed as the core of an in-house UI engine at [Ursa Minor](https://www.copytrans.net), later released as a standalone product and open-sourced in 2025.
 - [Visual Mercutio](https://github.com/thesimplepath/Visual-Mercutio)\
