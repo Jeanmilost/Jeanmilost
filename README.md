@@ -74,6 +74,11 @@ The project was later open-sourced in 2019 after the company closed.
 ![Unity](https://img.shields.io/badge/Engine-Unity-informational?style=flat&logo=unity&logoColor=white&color=848484)
 ![Godot](https://img.shields.io/badge/Engine-Godot-informational?style=flat&logo=godotengine&logoColor=white&color=4d90c1)
 
+## 🎓 Certifications
+
+- **C++ Certified Associate Programmer (CPA-21-02)** • Issued by the C++ Institute (OpenEDG) • ✨ [Badge](https://www.credly.com/badges/ac038d32-3404-4fab-a87a-fa3b28ef841c)
+- **Microsoft Certified Professional (MCP)** • Developing Windows applications in C# • Issued by Microsoft • ✨ [Badge](https://learn.microsoft.com/en-us/users/jeanmilostreymond-6843/transcript/71z8gae14p5zyg3?tab=credentials-tab)
+
 ## 📫 Contact
 
 Feel free to reach out for opportunities or collaborations.
